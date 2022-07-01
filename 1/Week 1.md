@@ -61,4 +61,4 @@ Thanks a lot for reading so far.. 🤗
 
 Follow me for my daily curiosity !
 
-[![twitter](https://raw.githubusercontent.com/heydrdev/what-i-did-this-week/main/assets/twitter.png align="center")](https://www.twitter.com/heydrdev)
+[![twitter](https://raw.githubusercontent.com/heydrdev/what-i-did-this-week/main/assets/twitter.png )](https://www.twitter.com/heydrdev)
