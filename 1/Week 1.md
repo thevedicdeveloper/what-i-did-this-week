@@ -44,6 +44,10 @@ Since this is first realse. This is not well organised, I am just randomly putti
 ### What I am reading this week ?
 Atomic Habit by James Clear. Right now I am at **THE 4TH LAW: Make it Satisfying**
 
+![](https://raw.githubusercontent.com/heydrdev/what-i-did-this-week/main/1/atomic-habit.jpg)
+
 ### My target for this Month
 
-### 
+![target](https://raw.githubusercontent.com/heydrdev/what-i-did-this-week/main/1/target.png)
+
+### Question of the Week
