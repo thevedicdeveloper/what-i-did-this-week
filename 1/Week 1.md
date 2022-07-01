@@ -59,3 +59,6 @@ Participate in the poll, it will hardly take 6 sec..
 
 Thanks a lot for reading so far.. 🤗
 
+Follow me for my daily curiosity !
+
+ <a href="https://www.patreon.com/heydrdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/icons/patreon-button.png" alt="heydrdev"  width="250" /></a>
