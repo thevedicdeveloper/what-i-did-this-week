@@ -7,3 +7,10 @@ I just started reading the book Atomic Habits by James Clear and I am very luck 
 
 After reading half the book, I literally build one habit and that is brushing in night. Now I can share something which I proud of too.
 
+![my-habit-streak-june](https://raw.githubusercontent.com/heydrdev/what-i-did-this-week/main/1/my%20habit%20streak.png)
+
+Here you can see, I am not consistent at everything, but this colour full graph really motiates me. (I am tracking my habit on google sheets right now, but I am planning to move it Notion.)
+
+## Why I am creating a new series?
+
+**Reason 1:** After knowing the power of consistency, I want to build to two more habits, and want to track and share it with you guys. The two new habits are **Reading** and **Writing**. I will explain in future why I choose only these two. But to quickly get and idea.. read this 👇.
