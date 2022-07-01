@@ -60,5 +60,6 @@ Participate in the poll, it will hardly take 6 sec..
 Thanks a lot for reading so far.. 🤗
 
 Follow me for my daily curiosity !
-
+<p align="center">
  <a href="https://www.twitter.com/heydrdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/heydrdev/what-i-did-this-week/main/assets/twitter.png" alt="heydrdev"  width="550" /></a>
+ </p>
