@@ -35,4 +35,15 @@ Since this is first realse. This is not well organised, I am just randomly putti
 
 ### Best Three Tweets ?
 
-![tweet-one]()
+![tweet-one](https://raw.githubusercontent.com/heydrdev/what-i-did-this-week/main/1/tweet-one.png)
+
+![tweet-two](https://raw.githubusercontent.com/heydrdev/what-i-did-this-week/main/1/tweet-three.png)
+
+![tweet-three](https://raw.githubusercontent.com/heydrdev/what-i-did-this-week/main/1/tweet-two.png)
+
+### What I am reading this week ?
+Atomic Habit by James Clear. Right now I am at **THE 4TH LAW: Make it Satisfying**
+
+### My target for this Month
+
+### 
