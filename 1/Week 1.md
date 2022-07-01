@@ -14,3 +14,25 @@ Here you can see, I am not consistent at everything, but this colour full graph 
 ## Why I am creating a new series?
 
 **Reason 1:** After knowing the power of consistency, I want to build to two more habits, and want to track and share it with you guys. The two new habits are **Reading** and **Writing**. I will explain in future why I choose only these two. But to quickly get and idea.. read this 👇.
+
+![alex-tweet](https://raw.githubusercontent.com/heydrdev/what-i-did-this-week/main/1/alex-tweet.png)
+
+**Reason 2:** I am not good at consistency. I want to try everthing that fulfills my intelectualy desire but now I think my minds behaving like a monkey 🐵. It switches to another iterstig thing very quickly. Also I did write one article (MakeMeFamous🤩.md) thinking that I will be consistent but I failed (again I will explin you in future)
+
+## What will this series will contian ?
+
+I usally came across my creative and insightful things that I want to share and store. So this series will contians the best of the content that I consume over the internet, for example:
+
+* What I read this week?
+* Best 3 tweets?
+* Of course my weekly habits status..
+
+and etc.
+
+Since this is first realse. This is not well organised, I am just randomly putting what is comming in mind. Not think too much about writing format.
+
+## What for this week?
+
+### Best Three Tweets ?
+
+![tweet-one]()
